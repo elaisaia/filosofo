@@ -1,0 +1,6 @@
+langchain
+langchain_community
+streamlit==1.26.0
+unstructured
+unstructured[pdf]
+chromadb
